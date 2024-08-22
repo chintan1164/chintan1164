@@ -122,7 +122,7 @@
     </td>
     <td align="center" width="96" style="border:2px solid blue">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+            <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="60" height="60"/>
         </a>
         <br>Bootstrap</br>
     </td>

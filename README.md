@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chintan Detroja</h1>
 <h3 align="center">Turning Ideas into Code | Building Scalable and Innovative Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan1164&label=Profile%20views&color=0e75b6&style=flat" alt="chintan1164" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
 

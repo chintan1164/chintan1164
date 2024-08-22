@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="96" style="border:2px solid blue">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-            <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://skillicons.dev/icons?i=express)" alt="express" width="60" height="60"/>
+            <img src="https://skillicons.dev/icons?i=express" alt="express" width="60" height="60"/>
         </a>
         <br>Express.js</br>
     </td>
